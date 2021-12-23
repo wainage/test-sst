@@ -34,6 +34,11 @@ Runs your tests using Jest. Takes all the [Jest CLI options](https://jestjs.io/d
 
 ## Documentation
 
+
+## Testing
+
+> use dynamodb
+
 Learn more about the Serverless Stack.
 
 - [Docs](https://docs.serverless-stack.com)
